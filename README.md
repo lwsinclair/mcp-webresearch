@@ -1,3 +1,5 @@
+[![MseeP Badge](https://mseep.net/pr/mzxrai-mcp-webresearch-badge.jpg)](https://mseep.ai/app/mzxrai-mcp-webresearch)
+
 # MCP Web Research Server
 
 A Model Context Protocol (MCP) server for web research. 
